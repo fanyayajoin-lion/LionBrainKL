@@ -1,0 +1,7 @@
+{
+  "commitMessage": "Obsidian auto-commit: {{message}}",
+  "commitInterval": 5,
+  "pullInterval": 5,
+  "autoPull": true,
+  "autoPush": true
+}
