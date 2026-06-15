@@ -1,7 +1,7 @@
 ---
-title: "Obsidian 教學：如何用知識網路生成筆記？跟 Notion 差在哪？"
+title: "Obsidian 教學 2025：知識網路筆記實作指南"
 source: "https://www.bnext.com.tw/article/84880/obsidian-tutorial-2025"
-tags: [obsidian, knowledge-management, note-taking, productivity, tools, markdown]
+tags: [obsidian, 筆記軟體, 知識管理, Markdown, 知識網路, 數位時代]
 date: 2026-06-15
 category: "01_Concepts"
 status: processed
@@ -9,11 +9,12 @@ status: processed
 
 ## 摘要
 
-- Obsidian 採用類似大腦神經元的連結方式，透過雙向連結（[[ ]]）讓筆記之間形成知識網絡，有利於深度思考和激發創造力。
-- 免費使用，資料完全由用戶掌控，以本地 .md 格式儲存，避免供應商綁定；Sync 和 Publish 等功能需額外付費。
-- 介面分為四部分：中央編輯區、左側工具面板（快速切換、關聯圖、日誌、命令面板）、右側連結與標籤面板。
-- 支援 Markdown 語法（標題、粗體、列表、引用、連結），提供即時預覽和原始碼兩種編輯模式。
-- 與 Notion 比較：Obsidian 強調本地化、雙向連結、知識圖譜、隱私性高；Notion 則是雲端儲存、團隊協作、多功能工作區，適合專案管理和資料庫。
+- Obsidian 是免費筆記軟體，資料以本地 md 檔案儲存，用戶完全掌控，無需註冊登入
+- 核心特色是「知識網路」：透過 [[雙向連結]] 讓筆記間形成類似大腦神經元的關聯圖
+- 介面分四大區塊：編輯區、左側工具面板（新建/資料夾/關聯圖/日誌）、右側連結面板、命令面板
+- 支援 Markdown 語法：即時預覽模式可同時看到原始碼與渲染效果，也可向右分割並排檢視
+- 分類方式：資料夾（按主題集中管理）+ 標籤（# 符號快速分類搜尋）
+- Obsidian vs Notion：Obsidian 適合個人知識庫/深度思考/離線工作；Notion 適合團隊協作/專案管理/雲端共享
 
 ---
 *原始內容：inbox/raw/20260615-104839-97a8f53f.md*
